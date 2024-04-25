@@ -83,3 +83,4 @@ let currentDate = new Date();
 
 currentDateELement.innerHTML = formatDate(currentDate);
 displayForecast();
+searchCity(Thokoza);
